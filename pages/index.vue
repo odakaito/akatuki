@@ -6,7 +6,7 @@ definePageMeta({
 })
 </script>
 <template>
-      
+
   <Container margin="t-5">
     <HeroHeadingsDescription />
   </Container>
